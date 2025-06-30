@@ -13,7 +13,7 @@ A beginner-friendly Streamlit app that displays the current weather for any city
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Weather App.git
+   git clone https://https://github.com/Sindhu-182006/Weather-App
    cd Weather App
-## admin
+##  admin
 Sindu.T
